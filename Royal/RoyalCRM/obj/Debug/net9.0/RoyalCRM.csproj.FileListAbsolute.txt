@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Royal\RoyalCRM\bin\Debug\net9.0\RoyalCRM.exe
+C:\Users\user\Desktop\Royal\RoyalCRM\bin\Debug\net9.0\RoyalCRM.deps.json
+C:\Users\user\Desktop\Royal\RoyalCRM\bin\Debug\net9.0\RoyalCRM.runtimeconfig.json
+C:\Users\user\Desktop\Royal\RoyalCRM\bin\Debug\net9.0\RoyalCRM.dll
+C:\Users\user\Desktop\Royal\RoyalCRM\bin\Debug\net9.0\RoyalCRM.pdb
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.AssemblyInfo.cs
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.dll
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\refint\RoyalCRM.dll
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.pdb
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\RoyalCRM.genruntimeconfig.cache
+C:\Users\user\Desktop\Royal\RoyalCRM\obj\Debug\net9.0\ref\RoyalCRM.dll
